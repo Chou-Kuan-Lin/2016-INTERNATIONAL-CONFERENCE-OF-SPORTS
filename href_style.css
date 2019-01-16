@@ -1,0 +1,19 @@
+/*
+to set href style
+for list
+*/
+a
+{
+    color:white;
+}
+
+a:link
+{
+    text-decoration:none;
+}
+
+a:hover
+{
+    color:blue;
+    text-decoration:none;
+}
